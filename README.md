@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ganesh8439
+- 👋 Hi, I’m @Ganesh
 - 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on 
